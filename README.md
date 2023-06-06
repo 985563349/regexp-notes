@@ -1,4 +1,4 @@
-# Regexp Notes
+# RegExp Notes
 
 正则表达式 学习笔记
 
